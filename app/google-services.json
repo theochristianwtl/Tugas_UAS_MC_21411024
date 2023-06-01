@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "779344398076",
+    "project_id": "tugas-uas-21411024-bb162",
+    "storage_bucket": "tugas-uas-21411024-bb162.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779344398076:android:b09c2f58019807fc3fb979",
+        "android_client_info": {
+          "package_name": "com.example.tugas_uas_21411024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7VaLUCgae3yZO6r-723ZF_sIWttN5UHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
